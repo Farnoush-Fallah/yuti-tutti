@@ -3,6 +3,7 @@ yuti-tutti
 yuti-tutti is a social networking program in which the user is able to create multiple accounts, log into them, post any text they want,
 delete and like posts, seek others' information or even their own.
 Here's how to use this program:
+
 1.signup <username> <password>
   
 2.login <username> <password>
